@@ -1,0 +1,136 @@
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\appsettings.Development.json
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\appsettings.json
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\Movies.exe
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\Movies.deps.json
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\Movies.runtimeconfig.json
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\Movies.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\Movies.pdb
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\MyProjects\Expenses Management\Movies\Movies\obj\Debug\net6.0\Movies.csproj.AssemblyReference.cache
+E:\MyProjects\Expenses Management\Movies\Movies\obj\Debug\net6.0\Movies.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProjects\Expenses Management\Movies\Movies\obj\Debug\net6.0\Movies.AssemblyInfoInputs.cache
+E:\MyProjects\Expenses Management\Movies\Movies\obj\Debug\net6.0\Movies.AssemblyInfo.cs
+E:\MyProjects\Expenses Management\Movies\Movies\obj\Debug\net6.0\Movies.csproj.CoreCompileInputs.cache
+E:\MyProjects\Expenses Management\Movies\Movies\obj\Debug\net6.0\Movies.MvcApplicationPartsAssemblyInfo.cs
+E:\MyProjects\Expenses Management\Movies\Movies\obj\Debug\net6.0\Movies.MvcApplicationPartsAssemblyInfo.cache
+E:\MyProjects\Expenses Management\Movies\Movies\obj\Debug\net6.0\staticwebassets\msbuild.Movies.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MyProjects\Expenses Management\Movies\Movies\obj\Debug\net6.0\staticwebassets\msbuild.build.Movies.props
+E:\MyProjects\Expenses Management\Movies\Movies\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Movies.props
+E:\MyProjects\Expenses Management\Movies\Movies\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Movies.props
+E:\MyProjects\Expenses Management\Movies\Movies\obj\Debug\net6.0\staticwebassets.pack.json
+E:\MyProjects\Expenses Management\Movies\Movies\obj\Debug\net6.0\staticwebassets.build.json
+E:\MyProjects\Expenses Management\Movies\Movies\obj\Debug\net6.0\staticwebassets.development.json
+E:\MyProjects\Expenses Management\Movies\Movies\obj\Debug\net6.0\scopedcss\bundle\Movies.styles.css
+E:\MyProjects\Expenses Management\Movies\Movies\obj\Debug\net6.0\Movies.csproj.CopyComplete
+E:\MyProjects\Expenses Management\Movies\Movies\obj\Debug\net6.0\Movies.dll
+E:\MyProjects\Expenses Management\Movies\Movies\obj\Debug\net6.0\refint\Movies.dll
+E:\MyProjects\Expenses Management\Movies\Movies\obj\Debug\net6.0\Movies.pdb
+E:\MyProjects\Expenses Management\Movies\Movies\obj\Debug\net6.0\Movies.genruntimeconfig.cache
+E:\MyProjects\Expenses Management\Movies\Movies\obj\Debug\net6.0\ref\Movies.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\Humanizer.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\AutoMapper.dll
+E:\MyProjects\Expenses Management\Movies\Movies\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\appsettings.Development.json
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\appsettings.json
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\Movies.exe
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\Movies.deps.json
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\Movies.runtimeconfig.json
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\Movies.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\Movies.pdb
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\AutoMapper.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\Humanizer.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MyProjects\MoviesAPI\Movies\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\MyProjects\MoviesAPI\Movies\obj\Debug\net6.0\Movies.csproj.AssemblyReference.cache
+E:\MyProjects\MoviesAPI\Movies\obj\Debug\net6.0\Movies.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProjects\MoviesAPI\Movies\obj\Debug\net6.0\Movies.AssemblyInfoInputs.cache
+E:\MyProjects\MoviesAPI\Movies\obj\Debug\net6.0\Movies.AssemblyInfo.cs
+E:\MyProjects\MoviesAPI\Movies\obj\Debug\net6.0\Movies.csproj.CoreCompileInputs.cache
+E:\MyProjects\MoviesAPI\Movies\obj\Debug\net6.0\Movies.MvcApplicationPartsAssemblyInfo.cs
+E:\MyProjects\MoviesAPI\Movies\obj\Debug\net6.0\Movies.MvcApplicationPartsAssemblyInfo.cache
+E:\MyProjects\MoviesAPI\Movies\obj\Debug\net6.0\staticwebassets\msbuild.Movies.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MyProjects\MoviesAPI\Movies\obj\Debug\net6.0\staticwebassets\msbuild.build.Movies.props
+E:\MyProjects\MoviesAPI\Movies\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Movies.props
+E:\MyProjects\MoviesAPI\Movies\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Movies.props
+E:\MyProjects\MoviesAPI\Movies\obj\Debug\net6.0\staticwebassets.pack.json
+E:\MyProjects\MoviesAPI\Movies\obj\Debug\net6.0\staticwebassets.build.json
+E:\MyProjects\MoviesAPI\Movies\obj\Debug\net6.0\staticwebassets.development.json
+E:\MyProjects\MoviesAPI\Movies\obj\Debug\net6.0\scopedcss\bundle\Movies.styles.css
+E:\MyProjects\MoviesAPI\Movies\obj\Debug\net6.0\Movies.csproj.CopyComplete
+E:\MyProjects\MoviesAPI\Movies\obj\Debug\net6.0\Movies.dll
+E:\MyProjects\MoviesAPI\Movies\obj\Debug\net6.0\refint\Movies.dll
+E:\MyProjects\MoviesAPI\Movies\obj\Debug\net6.0\Movies.pdb
+E:\MyProjects\MoviesAPI\Movies\obj\Debug\net6.0\Movies.genruntimeconfig.cache
+E:\MyProjects\MoviesAPI\Movies\obj\Debug\net6.0\ref\Movies.dll
